@@ -1,1 +1,5 @@
 .DS_Store
+jupyter/app/templates/.ipynb_checkpoints/
+jupyter/app/.ipynb_checkpoints/
+jupyter/.ipynb_checkpoints/
+jupyter/__pycache__/
